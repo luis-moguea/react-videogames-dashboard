@@ -17,6 +17,7 @@ const GenreList = () => {
         <ListItem paddingY="5px" key={el.id}>
           <HStack>
             <Image
+              cursor="pointer"
               boxSize="32px"
               borderRadius={8}
               src={getCroppedImageUrl(el.image_background)}
