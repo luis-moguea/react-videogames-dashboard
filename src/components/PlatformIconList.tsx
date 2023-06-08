@@ -34,6 +34,7 @@ const PlatformIconList = ({ platforms }: Props) => {
     <HStack marginY={"10px"}>
       {platforms.map((platform) => (
         <Icon
+          key={platform.id}
           width="12px"
           color="gray.500"
           cursor={"pointer"}
