@@ -26,7 +26,7 @@ const App = () => {
       }}
       templateColumns={{
         base: "1fr",
-        lg: "260px 1fr",
+        lg: "200px 1fr",
       }}
     >
       <GridItem area="nav">
@@ -43,7 +43,7 @@ const App = () => {
         </GridItem>
       </Show>
       <GridItem area="main">
-        <Box paddingLeft={2}>
+        <Box paddingLeft={2} marginTop={7}>
           <GameHeading gameQuery={gameQuery} />
           <Flex marginBottom={5}>
             <Box marginRight={5}>
