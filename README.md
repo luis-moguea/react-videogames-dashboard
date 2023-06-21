@@ -1,4 +1,4 @@
-# Results summary - React component
+# React videogames dashboard
 
 ## Description
 
