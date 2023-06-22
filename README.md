@@ -23,6 +23,7 @@ This project was created using:
 - Typescript
 - Chakra-ui
 - Axios
+- Rawg.io API
 
 ## Setup
 
