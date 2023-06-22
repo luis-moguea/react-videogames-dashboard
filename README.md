@@ -9,9 +9,9 @@ genre or typing their favorite game in the form.
 ## Features
 
 - Mobile and desktop designs
-- dark and light mode
-- Filtering games by platform
-- Filtering games by genre
+- Dark and light mode
+- Filter games by platform
+- Filter games by genre
 - Search specific games through the form
 
 ## Technologies
